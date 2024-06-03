@@ -10,9 +10,11 @@ This application is made up of following tools such as,
 - Dotenv - Configuring .env (Environmental Variables) for making private variables
 - JsonWebToken - Authentication & Authorization
 - bcrypt - encrypt & compare passwords
-- braintree - Payments options
+- braintree - Payment functionality
 
 
 ## Render Deployed URL 
 
 https://mern-travel-tourism-app.onrender.com/
+
+The above URL represents BackEnd Deployed URL (Render) and it acts like a live Server and we can make actions in the application.
